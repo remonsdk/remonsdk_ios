@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+"NSLocationAlwaysUsageDescription" = "본 Application은 광고의 Local 타겟팅 목적으로 위치 서비스를 이용합니다.";
+"NSLocationWhenInUseUsageDescription" = "본 Application은 광고의 Local 정보 타겟팅 목적으로 위치 서비스를 이용합니다.";
